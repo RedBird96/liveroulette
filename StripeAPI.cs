@@ -14,16 +14,8 @@ namespace LiveRoulette
     public class StripeAPI
     {
         //Dev Test
-        public string APIKey = "rk_test_51If5I8JXvUYCCEaPhNSLS6Ge0fUj5HQtHNkFmYyNoZc8R5k2Dg5fGKvhoyVVlVsyl6J80Si0Qe8rfP1MUq1Jw7ng0003ZOgmOA";
-        public string ProductId = "prod_JbUvBFiohUGwbr";
-
-        //AIS TEST
-        //public string APIKey = "rk_test_51IftpUDbJrg6YR0nECG9RTRSJXYasiA7LHEFBBsGWLNjC8dLxbLrTgfvTHH65OTwtCYU82LBCepHmKM7soz5Y98u00oMgkq4oG";
-        //public string ProductId = "prod_JbUcaTnEIxwDt3";
-
-        //AIS LIVE
-        //public string APIKey = "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";
-        //public string ProductId = "prod_JvTbvJnAp6Q7WC";
+        public string APIKey = "";
+        public string ProductId = "";
 
 
         public string PriceId = "";
